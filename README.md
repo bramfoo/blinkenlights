@@ -29,7 +29,11 @@ $ java -cp target/ blinkenlights.Blinkenlights [gridSize]
 ## To Do
 * Optimisations
   * Keep active list of nodes with value 4 so not all nodes need to be checked
-  * Use divide & conquer approach for checking for mouseclicks 
+  * Use divide & conquer approach for checking for mouseclicks
+
+## Alternative version
+
+There is an (incomplete) JavaScript/jQuery version available in ``src/main/javascript/``. To run it, simply open the ``index.html`` file in your browser.
 
 ## Links
 
